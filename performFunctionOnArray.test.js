@@ -5,7 +5,7 @@ describe('Advanced Unit Test', () => {
     // Förbered testdata
     const inputArray = [1, 2, 3, 4, 5];
 
-    // Ett testfall som testar om funktionen korrekt adderar värdena i arrayen
+    // Ett testfall som testar om funktionen korrekt adderar +2 till värdena i arrayen
     test('Addera värden i array', () => {
         const expectedArray = [3, 4, 5, 6, 7];
         fail("Test not implemented")
